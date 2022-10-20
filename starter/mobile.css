@@ -42,6 +42,19 @@
 .explorefoods-card {
     margin: 20px 0;
 }
-
-
+.faq-items {
+    min-width: 100%;
 }
+.cta-showcase {
+    flex-direction: column;
+    text-align: center;
+    padding: 0 20px;
+}
+.cta-notice {
+    padding: 30px 20px;
+}
+/* .cta-input-holder input:onfocus {
+    width: 300px;
+} */
+}
+
